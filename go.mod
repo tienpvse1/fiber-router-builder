@@ -1,4 +1,4 @@
-module github.com/tienpvse1/fiber-route-builder
+module github.com/tienpvse1/fiber-router-builder
 
 go 1.20
 
