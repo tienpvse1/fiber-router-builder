@@ -1,4 +1,4 @@
-module tienpvse/fiber-route-builder
+module tienpvse1/fiber-route-builder
 
 go 1.20
 
